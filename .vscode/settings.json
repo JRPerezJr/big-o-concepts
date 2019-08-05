@@ -4,6 +4,9 @@
         "*.html": "html",
         "*.js": "javascriptreact",
         "*.tsx": "typescriptreact",
-        "linkedListInC.C": "cpp"
-    }
+        "linkedListInC.C": "cpp",
+        "insertingLinkedListInC.C": "cpp",
+        "deletingLinkedListAtNth.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
